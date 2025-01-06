@@ -1,6 +1,6 @@
-## 9. Kết Quả Đánh Giá Bằng JaCoCo
+## Kết Quả Đánh Giá Bằng JaCoCo
 
-### 9.1 Tổng Quan
+### Tổng Quan
 Báo cáo kiểm thử tự động được thực hiện bằng JaCoCo để đánh giá mức độ bao phủ mã nguồn. Dưới đây là các số liệu chính:
 
 | Thành phần              | Bao phủ lệnh (%) | Bao phủ nhánh (%) | Số lệnh chưa bao phủ | Số nhánh chưa bao phủ |
@@ -12,7 +12,7 @@ Báo cáo kiểm thử tự động được thực hiện bằng JaCoCo để �
 
 ---
 
-### 9.2 Phân Tích Chi Tiết
+### Phân Tích Chi Tiết
 
 1. **LinkedList.java**:
    - **Mức độ bao phủ lệnh**: 92%
@@ -37,13 +37,12 @@ Báo cáo kiểm thử tự động được thực hiện bằng JaCoCo để �
 
 ---
 
-### 9.3 Kết Luận
+### Kết Luận
 
 - Mức độ bao phủ mã nguồn tổng quan đạt **96% cho lệnh** và **93% cho nhánh**.
 - Một số trường hợp ngoại lệ và lệnh chưa được kiểm thử, tập trung chủ yếu ở lớp `LinkedList.java`.
 - Các thuật toán tìm kiếm và sắp xếp đã đạt mức độ bao phủ rất tốt.
 
-### 9.4 Đề Xuất Cải Tiến
 
 - Bổ sung thêm các trường hợp kiểm thử với điều kiện đặc biệt hoặc lỗi cho lớp `LinkedList.java`.
 - Đánh giá và cải tiến các bài kiểm thử để đạt được mức độ bao phủ tối đa (100%).
