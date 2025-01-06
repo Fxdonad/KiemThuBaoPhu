@@ -1,5 +1,8 @@
 ## Kết Quả Đánh Giá Bằng JaCoCo
 
+![image](https://github.com/user-attachments/assets/2294e263-a1d4-41a6-93a4-38d21fc42062)
+
+
 ### Tổng Quan
 Báo cáo kiểm thử tự động được thực hiện bằng JaCoCo để đánh giá mức độ bao phủ mã nguồn. Dưới đây là các số liệu chính:
 
