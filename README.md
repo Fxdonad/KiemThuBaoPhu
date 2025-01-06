@@ -50,3 +50,10 @@ Báo cáo kiểm thử tự động được thực hiện bằng JaCoCo để �
 - Bổ sung thêm các trường hợp kiểm thử với điều kiện đặc biệt hoặc lỗi cho lớp `LinkedList.java`.
 - Đánh giá và cải tiến các bài kiểm thử để đạt được mức độ bao phủ tối đa (100%).
 - Đảm bảo kiểm thử các bộ dữ liệu lớn hoặc trường hợp phức tạp hơn cho tất cả các thuật toán.
+
+## Đoạn ChatGPT
+(do chứa hình ảnh nên GPT không hỗ trợ share)
+
+https://github.com/user-attachments/assets/a2a35fd6-fb92-4654-bb3f-0b3bf1a2c701
+
+
