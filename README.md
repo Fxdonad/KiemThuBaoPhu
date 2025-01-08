@@ -137,4 +137,7 @@ https://github.com/user-attachments/assets/a2a35fd6-fb92-4654-bb3f-0b3bf1a2c701
 - Kiểm thử là một quá trình liên tục, cần thường xuyên cập nhật và mở rộng các trường hợp kiểm thử khi mã nguồn thay đổi.
 - Đảm bảo rằng mỗi thay đổi trong mã nguồn đều đi kèm với các kiểm thử tương ứng.
 
+### 5. Duy trì và cập nhật kiểm thử:
+- Đảm bảo rằng các bài kiểm thử được cập nhật kịp thời khi có thay đổi trong mã nguồn.
+- Thường xuyên xem xét và cải tiến các bài kiểm thử để phù hợp với các yêu cầu mới hoặc thay đổi trong dự án.
 
