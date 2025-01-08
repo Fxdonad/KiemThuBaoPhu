@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/2294e263-a1d4-41a6-93a4-38d21fc42062)
 
-## Code
+## Code Test
     public class AlgorithmTests {
     
         // Kiểm thử thuật toán tìm kiếm tuyến tính
